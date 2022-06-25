@@ -2,7 +2,7 @@
 
 ### An Encoder-Decoder Architecture using VGG16 as a base network to predict eye fixation maps
 
-Download dataset from [here](https://drive.google.com/drive/folders/1kv0nNSOltMSZ8_b_-w9QtXUC8FwH9hc1?usp=sharing)
+Download dataset from [here](https://drive.google.com/file/d/1512SyHuc-g-OjEzsoFa5Nf2cKnb-cU3s/view?usp=sharing)
 
 1. If training on Google Colab then upload the dataset and mount the drive.
 2. If training on personal GPU, comment the code for google drive mounting and change the paths for train and validation datasets.
